@@ -12,3 +12,7 @@ neofetch
 cat ~/.cache/wal/sequences 
 source ~/.cache/wal/colors-tty.sh
 
+export VITASDK=/usr/local/vitasdk
+export PATH=$VITASDK/bin:$PATH
+
+alias music='ncmpcpp'
