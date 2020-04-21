@@ -1,0 +1,113 @@
+sw_volume: 50
+audio_device_state:1:pulse audio
+audio_device_state:1:toggle_visualizer
+state: pause
+current: 32
+time: 124.634000
+random: 1
+repeat: 1
+single: 0
+consume: 0
+crossfade: 5
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Saury/Hauyne/Saury - Hauyne - 01 Vibration.flac
+1:Saury/Hauyne/Saury - Hauyne - 02 Trust.flac
+2:Saury/Hauyne/Saury - Hauyne - 03 the last kiss.flac
+3:Saury/Hauyne/Saury - Hauyne - 04 Crime.flac
+4:Saury/Hauyne/Saury - Hauyne - 05 Dark Side.flac
+5:Saury/Hauyne/Saury - Hauyne - 06 ワカワカッワカレテ.flac
+6:Saury/Hauyne/Saury - Hauyne - 07 Mirage.flac
+7:Saury/Hauyne/Saury - Hauyne - 08 We've got the love....flac
+8:Saury/Hauyne/Saury - Hauyne - 09 Tropical Mermaid.flac
+9:Saury/Hauyne/Saury - Hauyne - 10 Magic.flac
+10:Saury/Hauyne/Saury - Hauyne - 11 冬.flac
+11:Saury/Hauyne/Saury - Hauyne - 12 銀河見習い.flac
+12:Saury/Hauyne/Saury - Hauyne - 13 すずかぜ.flac
+13:Saury/Hauyne/Saury - Hauyne - 14 あなたの声.flac
+14:Desired/Singles/Desired - Yatsuro Tamashita.flac
+15:BIGWAVE/SENTIMENTAL/ミカヅキBIGWAVE - 海辺のSENTIMENTAL - Album - 01 Take Me Up Higher.flac
+16:BIGWAVE/SENTIMENTAL/ミカヅキBIGWAVE - 海辺のSENTIMENTAL - Album - 02 Bayside Blue 新しい日.flac
+17:BIGWAVE/SENTIMENTAL/ミカヅキBIGWAVE - 海辺のSENTIMENTAL - Album - 03 純STAYPURE粋.flac
+18:BIGWAVE/SENTIMENTAL/ミカヅキBIGWAVE - 海辺のSENTIMENTAL - Album - 04 ｎｅｔｓｕｒｆ -.○・.-.flac
+19:BIGWAVE/SENTIMENTAL/ミカヅキBIGWAVE - 海辺のSENTIMENTAL - Album - 05 逢いたい 2 YOU ﾟ.flac
+20:BIGWAVE/SENTIMENTAL/ミカヅキBIGWAVE - 海辺のSENTIMENTAL - Album - 06 ☆ Nyan Da Core ☆.flac
+21:BIGWAVE/SENTIMENTAL/ミカヅキBIGWAVE - 海辺のSENTIMENTAL - Album - 07 Change My Mind.flac
+22:BIGWAVE/SENTIMENTAL/ミカヅキBIGWAVE - 海辺のSENTIMENTAL - Album - 08 Hold My Hand 手を握ってね.flac
+23:BIGWAVE/SENTIMENTAL/ミカヅキBIGWAVE - 海辺のSENTIMENTAL - Album - 09 With You あなたと.flac
+24:BIGWAVE/SENTIMENTAL/ミカヅキBIGWAVE - 海辺のSENTIMENTAL - Album - 10 Enoshima Island 江ノ島.flac
+25:BIGWAVE/SENTIMENTAL/ミカヅキBIGWAVE - 海辺のSENTIMENTAL - Album - 11 ＬＯＶＥ In Question サラ.flac
+26:BIGWAVE/SENTIMENTAL/ミカヅキBIGWAVE - 海辺のSENTIMENTAL - Album - 12 KWII魔法 (Outro).flac
+27:Desired/Desired-Desired/Desired - Desired - 01 Dance Tonight.flac
+28:Desired/Desired-Desired/Desired - Desired - 02 Tropical Adventure.flac
+29:Desired/Desired-Desired/Desired - Desired - 03 Heaven.flac
+30:Desired/Desired-Desired/Desired - Desired - 04 Rei 火星.flac
+31:Desired/Desired-Desired/Desired - Desired - 05 Every Part of Me Loves You Bae.flac
+32:Desired/Desired-Desired/Desired - Desired - 06 Summer Night.flac
+33:Desired/Desired-Desired/Desired - Desired - 07 Sunset 1987.flac
+34:Desired/Desired-Desired/Desired - Desired - 08 TOGETHER カップル.flac
+35:Desired/Desired-Desired/Desired - Desired - 09 Sayonara.flac
+36:Desired/Desired-Desired/Desired - Desired - 10 Crystal Tokyo.flac
+37:Desired/Desired-Desired/Desired - Desired - 11 Only Friends.flac
+38:Desired/Desired-Desired/Desired - Desired - 12 Last Dance of The Night.flac
+39:Desired/Desired-Nineteen/Desired - nineteen - 01 angel.flac
+40:Desired/Desired-Nineteen/Desired - nineteen - 02 shelter.flac
+41:Desired/Desired-Nineteen/Desired - nineteen - 03 broken.flac
+42:Desired/Desired-Nineteen/Desired - nineteen - 04 december.flac
+43:Desired/Desired-Nineteen/Desired - nineteen - 05 exolution.flac
+44:Desired/Desired-Nineteen/Desired - nineteen - 06 old tape.flac
+45:Desired/Desired-Nineteen/Desired - nineteen - 07 melancholy.flac
+46:Desired/Desired-Nineteen/Desired - nineteen - 08 ame.flac
+47:Desired/Desired-Nineteen/Desired - nineteen - 09 somebody.flac
+48:Desired/Desired-Nineteen/Desired - nineteen - 10 clouds.flac
+49:Desired/Desired-Nineteen/Desired - nineteen - 11 double moon.flac
+50:Desired/Desired-Nineteen/Desired - nineteen - 12 dream.flac
+51:Desired/Desired-Nineteen/Desired - nineteen - 13 drops.flac
+52:Desired/Desired-Nineteen/Desired - nineteen - 14 gemini.flac
+53:Desired/Desired-Nineteen/Desired - nineteen - 15 heart.flac
+54:Desired/Desired-Nineteen/Desired - nineteen - 16 koi pond.flac
+55:Desired/Desired-Nineteen/Desired - nineteen - 17 first light.flac
+56:Desired/Desired-Nineteen/Desired - nineteen - 18 make up.flac
+57:Desired/Desired-Nineteen/Desired - nineteen - 19 creature.flac
+58:Desired/Desired-Plastic Whatever/Desired - PLASTIC WHATEVER - 01 Can't Find Out.flac
+59:Desired/Desired-Plastic Whatever/Desired - PLASTIC WHATEVER - 02 Plastic Life.flac
+60:Desired/Desired-Plastic Whatever/Desired - PLASTIC WHATEVER - 03 Hotel 1987.flac
+61:Desired/Desired-Plastic Whatever/Desired - PLASTIC WHATEVER - 04 Neon Maze.flac
+62:Desired/Desired-Plastic Whatever/Desired - PLASTIC WHATEVER - 05 Distorted Silhouette.flac
+63:Desired/Desired-Plastic Whatever/Desired - PLASTIC WHATEVER - 06 Love Letter (For You).flac
+64:Desired/Desired-Plastic Whatever/Desired - PLASTIC WHATEVER - 07 FM Towns Girl.flac
+65:Desired/Desired-Plastic Whatever/Desired - PLASTIC WHATEVER - 08 Commercial Break.flac
+66:Desired/Desired-Plastic Whatever/Desired - PLASTIC WHATEVER - 09 Android Shelter.flac
+67:Desired/Desired-Plastic Whatever/Desired - PLASTIC WHATEVER - 10 Fairy Tale.flac
+68:Desired/Desired-Plastic Whatever/Desired - PLASTIC WHATEVER - 11 Floor 25.flac
+69:Desired/Desired-Plastic Whatever/Desired - PLASTIC WHATEVER - 12 2D.flac
+70:Desired/Desired-Plastic Whatever/Desired - PLASTIC WHATEVER - 13 Moment of Summer.flac
+71:Desired/Desired-Plastic Whatever/Desired - PLASTIC WHATEVER - 14 Sailor Suit and Bubble Gum.flac
+72:Desired/Desired-Plastic Whatever/Desired - PLASTIC WHATEVER - 15 Plastic Little.flac
+73:Desired/Desired-Timeless/Desired - Timeless - 01 Timeless.flac
+74:Desired/Desired-Timeless/Desired - Timeless - 02 Sunshine City.flac
+75:Desired/Desired-Timeless/Desired - Timeless - 03 Wake Up.flac
+76:Desired/Desired-Timeless/Desired - Timeless - 04 Pink Jacket.flac
+77:Desired/Desired-Timeless/Desired - Timeless - 05 I Want You.flac
+78:Desired/Desired-Timeless/Desired - Timeless - 06 Video Girl Yukiko.flac
+79:Desired/Desired-Timeless/Desired - Timeless - 07 Honey Bunny.flac
+80:Desired/Desired-Timeless/Desired - Timeless - 08 Magic.flac
+81:Desired/Desired-Timeless/Desired - Timeless - 09 Dreamland.flac
+82:Desired/Desired-Timeless/Desired - Timeless - 10 Rainy Night.flac
+83:Desired/Desired-Timeless/Desired - Timeless - 11 Lost.flac
+84:Desired/Desired-Timeless/Desired - Timeless - 12 Into the Unknown.flac
+85:Desired/Singles/Desired - Emotions.flac
+86:Nachi/01 - Unknown Artist - Track 1.mp3
+87:Nachi/02 - Unknown Artist - Track 2.mp3
+88:Nachi/03 - Unknown Artist - Track 3.mp3
+89:Nachi/04 - Unknown Artist - Track 4.mp3
+90:Nachi/05 - Unknown Artist - Track 5.mp3
+91:Nachi/06 - Unknown Artist - Track 6.mp3
+92:Nachi/07 - Unknown Artist - Track 7.mp3
+93:Nachi/08 - Unknown Artist - Track 8.mp3
+94:Nachi/09 - Unknown Artist - Track 9.mp3
+95:Nachi/10 - Unknown Artist - Track 10.mp3
+96:Nachi/11 - Unknown Artist - Track 11.mp3
+97:Nachi/12 - Unknown Artist - Track 12.mp3
+playlist_end
