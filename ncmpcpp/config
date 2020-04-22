@@ -1,65 +1,37 @@
-% egrep -v '^#' .ncmpcpp/config
-mpd_music_dir = "/home/crystic/Music"
-
-mpd_host = "127.0.0.1"
-mpd_port = "6600"
-
-mouse_list_scroll_whole_page = "yes"
-lines_scrolled = "1"
-
 visualizer_in_stereo = "no"
 visualizer_fifo_path = "/tmp/mpd.fifo"
 visualizer_output_name = "my_fifo"
 visualizer_sync_interval = "30"
-visualizer_type = "spectrum"
-#visualizer_look = "▋▋"
-visualizer_look = "▃▃"
+visualizer_look = "∙▋"
+visualizer_type = "spectrum" (spectrum/wave)
+visualizer_color = white
+#song_list_format = "$3{%a} $1│ $1{%t}"
 
-message_delay_time = "3"
-playlist_shorten_total_times = "yes"
-playlist_display_mode = "classic"
-browser_display_mode = "columns"
-search_engine_display_mode = "columns"
-playlist_editor_display_mode = "columns"
-autocenter_mode = "yes"
-centered_cursor = "yes"
-user_interface = "classic"
-follow_now_playing_lyrics = "yes"
-locked_screen_width_part = "60"
-display_bitrate = "no"
-external_editor = "nano"
+mouse_support = "yes"
+header_visibility = "no"
+statusbar_visibility = "yes"
+enable_window_title = "no"
+titles_visibility = "no"
 
+progressbar_look = "▃▃▃"
 main_window_highlight_color = "white"
 
 progressbar_elapsed_color = "white"
 progressbar_color = "black"
 
-progressbar_look = "▃▃▃"
-#progressbar_look = "─⊙ "
-
-mouse_support = "yes"
-header_visibility = "no"
-statusbar_visibility = "no"
-
-statusbar_color = "white"
-visualizer_color = "white"
-titles_visibility = "no"
-enable_window_title = "yes"
+now_playing_prefix = "$b$7>$3> "
+song_columns_list_format = "(5)[98]{n} (35)[105]{t} (30)[103]{a} (30)[white]{b} (5f)[white]{l}"
+#song_status_format = " $3%t $0 $1%a "
+#song_list_format = " $7%l │ $8%t $R$7│ $R$3%a "
+song_status_format = "$2%a $4⟫$3⟫ $8%t $4⟫$3⟫ $5%b "
 
 
-now_playing_prefix = "$8$b ➤"
+message_delay_time = "3"
+now_playing_suffix = "$8$/b"
 
+display_bitrate = "no"
+external_editor = "nano"
 
-song_columns_list_format = "(6)[]{} (23)[red]{a} (26)[yellow]{t|f} (40)[green]{b} (4)[blue]{l}"
-
-color1 = "white"
-color2 = "black"
-
-
-#uncomment both statement's below if you want to display the albumart
-
-execute_on_song_change = "~/.ncmpcpp/music extract"
-#song_list_format = "                       $2%t $R$5%a "
-song_list_format = "{$5 %a$9 $1│$9 $8%t$9 }|{ $8%f$9}$R{$5%b $7}"
-song_status_format = "$b$7♫ $2%a $4⟫$3⟫ $8%t $4⟫$3⟫ $5%b "
-song_window_title_format = " {%a} - {%t}"
+autocenter_mode = "yes"
+centered_cursor = "yes"
+user_interface = "classic"
