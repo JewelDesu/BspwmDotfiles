@@ -1,0 +1,8 @@
+! URXVT APPEARANCE
+! ----------------
+URxvt.font:                       xft:mononoki:size=12
+
+URxvt.scrollBar:                  false
+
+
+
