@@ -12,8 +12,8 @@ function reset_background
 }
 
 {
-    album="$(mpc -p 6600 --format %album% current)"
-    file="$(mpc -p 6600 --format %file% current)"
+    album="$(mpc --format %album% current)"
+    file="$(mpc --format %file% current)"
     album_dir="${file%/*}"
     [[ -z "$album_dir" ]] && exit 1
     album_dir="$MUSIC_DIR/$album_dir"
@@ -34,3 +34,4 @@ function reset_background
         reset_background
     fi
 } &
+
