@@ -1,3 +1,3 @@
 # Polybar config
 >
-![thunar theme](polybar.png)
+![polybar theme](polybar.png)
