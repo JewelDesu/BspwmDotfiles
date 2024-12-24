@@ -11,4 +11,4 @@ ncmpcpp(with album art)<br>
 neofetch<br>
 pulybar<br>
 sxhkg<br>
-xfce4<br>
+thunar theme<br>
