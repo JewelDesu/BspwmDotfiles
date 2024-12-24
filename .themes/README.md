@@ -1,3 +1,3 @@
 # Thunar themes
 >
-![thunar theme](BspwmRice/thunar.png)
+![thunar theme](images/thunar.png)
