@@ -12,4 +12,5 @@ neofetch<br>
 pulybar<br>
 sxhkg<br>
 thunar theme<br>
-![img](images/emacs.png)
+![emacs](images/emacs.png)
+![ncmpcpp](images/ncmpcpp.png)
