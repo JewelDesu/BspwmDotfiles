@@ -14,3 +14,4 @@ sxhkg<br>
 thunar theme<br>
 ![emacs](images/emacs.png)
 ![ncmpcpp](images/ncmpcpp.jpg)
+![thunar](images/thunar.png)
