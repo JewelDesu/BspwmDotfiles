@@ -2,13 +2,13 @@
 
 My dot files for bspwm config.
 
-Includes:
+Includes:<br>
 bspwm<br>
-emacs(doomemacs with cute ui)
-kitty
-mpd(albums)
-ncmpcpp(with album art)
-neofetch
-pulybar
-sxhkg
-xfce4
+emacs(doomemacs with cute ui)<br>
+kitty<br>
+mpd(albums)<br>
+ncmpcpp(with album art)<br>
+neofetch<br>
+pulybar<br>
+sxhkg<br>
+xfce4<br>
