@@ -3,7 +3,7 @@
 My dot files for bspwm config.
 
 Includes:
-bspwm
+bspwm<br>
 emacs(doomemacs with cute ui)
 kitty
 mpd(albums)
