@@ -1,1 +1,2 @@
-
+# Thunar themes
+>
