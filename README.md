@@ -13,4 +13,4 @@ pulybar<br>
 sxhkg<br>
 thunar theme<br>
 ![emacs](images/emacs.png)
-![ncmpcpp](images/ncmpcpp.png)
+![ncmpcpp](images/ncmpcpp.jpg)
