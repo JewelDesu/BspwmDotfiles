@@ -21,7 +21,7 @@
        :completion
        (company +auto)   ; the ultimate code completion backend
        ;;helm              ; the *other* search engine for love and life
-       ido               ; the other *other* search engine...
+       ;;ido               ; the other *other* search engine...
        ivy               ; a search engine for love and life
 
        :ui
@@ -178,4 +178,4 @@
        :config
        ;;literate
        (default +bindings +smartparens))
-	   (setq fancy-splash-image "~/.emacs.d/banners/marivector2.png")
+	   (setq fancy-splash-image "~/.config/emacs/banners/marivector2.png")

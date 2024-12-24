@@ -123,3 +123,20 @@ super + {Left,Down,Up,Right}
 # lockscreen
 alt + shift + x
     betterlockscreen -l
+
+
+
+#Volume Control
+XF86AudioLowerVolume
+	amixer set Master 5%-
+XF86AudioRaiseVolume
+	amixer set Master 5%+
+XF86AudioMute
+        amixer set Master toggle
+
+XF86AudioPlay
+	exec playerctl play-pause
+XF86AudioPause
+	exec playerctl pause
+XF86AudioNext
+	exec playerctl next

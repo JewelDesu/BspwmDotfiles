@@ -39,3 +39,5 @@ compton --config ~/.config/compton.conf &
 xrdb ~/.Xresources
 
 
+mpDris2 &
+mpd &
