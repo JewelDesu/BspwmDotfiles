@@ -1,4 +1,4 @@
 # TouhouEmacs
 >
-![emacs theme](emacs.png)
+![emacs theme](/images/emacs.png)
 
