@@ -1,3 +1,3 @@
 # ncmpcpp config
 >
-![ncmpcpp config](ncmpcpp.jpg)
+![ncmpcpp config](../ncmpcpp.jpg)
