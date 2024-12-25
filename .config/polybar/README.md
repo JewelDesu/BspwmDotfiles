@@ -1,3 +1,3 @@
 # Polybar config
 >
-![polybar theme](polybar.png)
+![polybar theme](/images/polybar.png)
