@@ -1,3 +1,3 @@
 # Thunar themes
 >
-![thunar theme](images/thunar.png)
+![thunar theme](/images/thunar.png)
